@@ -4,7 +4,7 @@
 
 In this project, a dataset of product reviews will be used to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin.
 
-This first part of the project can be found here: ![AWS Reviews ETL](https://github.com/ericosabino/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb)
+This first part of the project can be found here: [AWS Reviews ETL](https://github.com/ericosabino/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb)
 
 
 In the second part of the project, I'll use PySpark to determine if there is any bias toward favorable reviews from Vine members in the dataset.
@@ -20,10 +20,10 @@ Technologies used:
 * PostgreSQL
 
 Data used:
-* ![Amazon Reviews, US Video Games](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz)
+* [Amazon Reviews, US Video Games](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz)
 
 
-Mode datasets can be found here: ![Amazon Reviews Index](
+Mode datasets can be found here: [Amazon Reviews Index](
 https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
 
 
